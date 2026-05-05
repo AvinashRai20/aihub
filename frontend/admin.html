@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard | AI Hub Pro</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .admin-container {
+            padding: 8rem 5% 5rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .admin-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 3rem;
+        }
+        .admin-form {
+            background: var(--bg-card);
+            padding: 2rem;
+            border-radius: 24px;
+            border: 1px solid var(--border);
+            margin-bottom: 4rem;
+        }
+        .form-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+        .form-group input, .form-group select, .form-group textarea {
+            width: 100%;
+            padding: 0.8rem;
+            background: var(--bg-dark);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            color: white;
+            outline: none;
+        }
+        .admin-table {
+            width: 100%;
+            border-collapse: collapse;
+            background: var(--bg-card);
+            border-radius: 24px;
+            overflow: hidden;
+            border: 1px solid var(--border);
+        }
+        .admin-table th, .admin-table td {
+            padding: 1rem 1.5rem;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+        .admin-table th {
+            background: rgba(255,255,255,0.05);
+            color: var(--text-muted);
+            font-weight: 600;
+        }
+        .action-btn {
+            padding: 0.5rem;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: var(--transition);
+            border: none;
+        }
+        .btn-delete { background: #ef4444; color: white; }
+        .btn-delete:hover { background: #dc2626; }
+    </style>
+</head>
+<body>
+    <div class="bg-glow">
+        <div class="glow-1"></div>
+        <div class="glow-2"></div>
+    </div>
+
+    <header>
+        <div class="logo">AI Hub Pro <span style="font-size: 0.8rem; opacity: 0.5;">ADMIN</span></div>
+        <nav>
+            <ul>
+                <li><a href="/">View Site</a></li>
+                <li><a href="#" class="active">Dashboard</a></li>
+            </ul>
+        </nav>
+        <div class="auth-btns">
+            <button onclick="logout()" class="btn btn-outline">Logout</button>
+        </div>
+    </header>
+
+    <main class="admin-container">
+        <div class="admin-header">
+            <h1>Admin <span>Dashboard</span></h1>
+            <p id="totalTools">Total Tools: 0</p>
+        </div>
+
+        <section class="admin-form">
+            <h3 style="margin-bottom: 1.5rem;">Add New AI Tool</h3>
+            <form id="addToolForm">
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label>Tool Name</label>
+                        <input type="text" id="toolName" placeholder="e.g. ChatGPT" required>
+                    </div>
+                    <div class="form-group">
+                        <label>Category</label>
+                        <select id="toolCategory" required>
+                            <option value="text">Text AI</option>
+                            <option value="image">Image AI</option>
+                            <option value="video">Video AI</option>
+                            <option value="coding">Coding AI</option>
+                            <option value="voice">Voice AI</option>
+                            <option value="music">Music AI</option>
+                            <option value="productivity">Productivity AI</option>
+                            <option value="seo">SEO AI</option>
+                            <option value="fun">Fun AI</option>
+                            <option value="business">Business AI</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Image URL</label>
+                        <input type="url" id="toolImg" placeholder="https://unsplash.com/..." required>
+                    </div>
+                    <div class="form-group">
+                        <label>Website Link</label>
+                        <input type="url" id="toolLink" placeholder="https://..." required>
+                    </div>
+                </div>
+                <div class="form-group" style="margin-bottom: 1.5rem;">
+                    <label>Description</label>
+                    <textarea id="toolDesc" rows="3" placeholder="Briefly describe the tool..." required></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Add Tool to Database</button>
+            </form>
+        </section>
+
+        <section>
+            <h3 style="margin-bottom: 1.5rem;">Manage Existing Tools</h3>
+            <table class="admin-table">
+                <thead>
+                    <tr>
+                        <th>Tool Name</th>
+                        <th>Category</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="adminToolsList">
+                    <!-- Loaded via JS -->
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <script>
+        async function fetchTools() {
+            const res = await fetch('/api/tools');
+            const tools = await res.json();
+            document.getElementById('totalTools').textContent = `Total Tools: ${tools.length}`;
+            const list = document.getElementById('adminToolsList');
+            list.innerHTML = '';
+            tools.forEach(tool => {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td>${tool.name}</td>
+                    <td><span class="tool-tag">${tool.category.toUpperCase()}</span></td>
+                    <td>
+                        <button class="action-btn btn-delete" onclick="deleteTool('${tool.name}')">
+                            <i class="fas fa-trash"></i>
+                        </button>
+                    </td>
+                `;
+                list.appendChild(tr);
+            });
+        }
+
+        document.getElementById('addToolForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const newTool = {
+                name: document.getElementById('toolName').value,
+                category: document.getElementById('toolCategory').value,
+                tag: document.getElementById('toolCategory').options[document.getElementById('toolCategory').selectedIndex].text,
+                desc: document.getElementById('toolDesc').value,
+                img: document.getElementById('toolImg').value,
+                link: document.getElementById('toolLink').value
+            };
+
+            const res = await fetch('/api/tools', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(new_tool)
+            });
+
+            if (res.ok) {
+                alert('Tool added successfully!');
+                e.target.reset();
+                fetchTools();
+            }
+        });
+
+        async function deleteTool(name) {
+            if (confirm(`Are you sure you want to delete ${name}?`)) {
+                const res = await fetch(`/api/tools/${name}`, { method: 'DELETE' });
+                if (res.ok) fetchTools();
+            }
+        }
+
+        function logout() {
+            window.location.href = '/';
+        }
+
+        fetchTools();
+    </script>
+</body>
+</html>

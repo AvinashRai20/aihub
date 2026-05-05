@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Hub Pro | All AI Tools in One Place</title>
+    <meta name="description" content="Discover and access the best AI tools for video, image, text, and photo generation. All AI in one place.">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="bg-glow">
+        <div class="glow-1"></div>
+        <div class="glow-2"></div>
+    </div>
+
+    <header>
+        <div class="logo">AI Hub Pro</div>
+        <nav>
+            <ul>
+                <li><a href="/" class="active">Home</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="#tools">Tools</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="auth-btns">
+            <a href="/login" class="btn btn-outline">Sign In</a>
+            <a href="/register" class="btn btn-primary">Join Now</a>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero animate">
+            <h1>Ultimate <span>AI Hub</span> for the Modern World</h1>
+            <p>Access, explore, and master every AI tool available today. From text generation to hyper-realistic video editing, everything you need is right here.</p>
+            
+            <div class="search-container">
+                <i class="fas fa-search" style="position: absolute; left: 1.5rem; top: 1.3rem; color: var(--text-muted);"></i>
+                <input type="text" id="toolSearch" placeholder="Search for tools like 'ChatGPT', 'Midjourney', 'Sora'..." style="padding-left: 3.5rem;">
+            </div>
+
+            <div class="categories" id="categoryFilters">
+                <button class="cat-btn active" data-category="all">All Tools</button>
+                <button class="cat-btn" data-category="text">Text AI</button>
+                <button class="cat-btn" data-category="image">Image AI</button>
+                <button class="cat-btn" data-category="video">Video AI</button>
+                <button class="cat-btn" data-category="coding">Coding AI</button>
+                <button class="cat-btn" data-category="voice">Voice AI</button>
+                <button class="cat-btn" data-category="music">Music AI</button>
+                <button class="cat-btn" data-category="productivity">Productivity AI</button>
+                <button class="cat-btn" data-category="seo">SEO AI</button>
+                <button class="cat-btn" data-category="fun">Fun AI</button>
+                <button class="cat-btn" data-category="business">Business AI</button>
+            </div>
+        </section>
+
+        <section class="tools-section" id="tools">
+            <div class="tools-grid" id="toolsGrid">
+                <!-- Tools will be dynamically injected here by main.js -->
+            </div>
+            <div id="loadMoreContainer" style="text-align: center; margin-top: 4rem;">
+                <button id="loadMoreBtn" class="btn btn-outline" style="padding: 1rem 3rem;">Load More AI Tools <i class="fas fa-chevron-down" style="margin-left: 0.5rem;"></i></button>
+            </div>
+        </section>
+        <section class="tools-section" id="contact" style="padding-bottom: 8rem;">
+            <div style="max-width: 900px; margin: 0 auto; text-align: center;">
+                <span class="tool-tag">Support</span>
+                <h2 style="font-size: 3rem; margin-top: 1rem;">Get in <span>Touch</span></h2>
+                <p style="color: var(--text-muted); margin-bottom: 4rem;">Have questions or want to list your AI tool? Send us a message.</p>
+                
+                <form id="contactForm" style="background: var(--bg-card); padding: 4rem; border-radius: 40px; border: 1px solid var(--border); text-align: left; display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;">
+                    <div class="form-group">
+                        <label>Your Name</label>
+                        <input type="text" placeholder="John Doe" style="background: var(--bg-dark); border: 1px solid var(--border); padding: 1.2rem; border-radius: 16px; color: white; width: 100%;">
+                    </div>
+                    <div class="form-group">
+                        <label>Email Address</label>
+                        <input type="email" placeholder="john@example.com" style="background: var(--bg-dark); border: 1px solid var(--border); padding: 1.2rem; border-radius: 16px; color: white; width: 100%;">
+                    </div>
+                    <div class="form-group" style="grid-column: 1 / -1;">
+                        <label>Message</label>
+                        <textarea rows="5" placeholder="How can we help you?" style="background: var(--bg-dark); border: 1px solid var(--border); padding: 1.2rem; border-radius: 16px; color: white; width: 100%;"></textarea>
+                    </div>
+                    <div style="grid-column: 1 / -1; text-align: center;">
+                        <button type="submit" class="btn btn-primary" style="padding: 1.2rem 4rem;">Send Message</button>
+                    </div>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-info">
+                <h2 class="logo">AI Hub Pro</h2>
+                <p>Empowering the world with AI tools. Discover the future of technology in one centralized platform.</p>
+                <div class="socials" style="margin-top: 1.5rem; display: flex; gap: 1rem;">
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-discord"></i></a>
+                    <a href="#"><i class="fab fa-github"></i></a>
+                </div>
+            </div>
+            <div class="footer-links">
+                <h4>Platform</h4>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/#tools">Tools Directory</a></li>
+                    <li><a href="/about">About Us</a></li>
+                    <li><a href="#">Pricing</a></li>
+                </ul>
+            </div>
+            <div class="footer-links">
+                <h4>Categories</h4>
+                <ul>
+                    <li><a href="#">Text Generation</a></li>
+                    <li><a href="#">Image Generation</a></li>
+                    <li><a href="#">Video Generation</a></li>
+                    <li><a href="#">Audio & Music</a></li>
+                </ul>
+            </div>
+            <div class="footer-links">
+                <h4>Support</h4>
+                <ul>
+                    <li><a href="#">Help Center</a></li>
+                    <li><a href="#">Contact Support</a></li>
+                    <li><a href="#">API Docs</a></li>
+                    <li><a href="#">Terms of Service</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="copyright">
+            &copy; 2026 AI Hub Pro. All rights reserved. Built with ❤️ for the AI Community.
+        </div>
+    </footer>
+
+    <!-- Tool Detail Modal -->
+    <div class="modal-overlay" id="toolModal">
+        <div class="modal-content">
+            <i class="fas fa-times close-modal" id="closeModal"></i>
+            <div id="modalBody">
+                <!-- Content injected by main.js -->
+            </div>
+            <div style="margin-top: 2rem; display: flex; justify-content: center;">
+                <button class="btn btn-outline" onclick="closeModalFunc()">Back to Hub</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

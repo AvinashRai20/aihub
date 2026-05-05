@@ -1,0 +1,3194 @@
+[
+    {
+        "name": "ChatGPT",
+        "category": "text",
+        "tag": "Text AI",
+        "desc": "Advanced conversational AI for writing, coding, and complex reasoning.",
+        "img": "https://images.unsplash.com/photo-1673177341071-700140700149?q=80&w=400",
+        "link": "https://chat.openai.com"
+    },
+    {
+        "name": "Gemini",
+        "category": "text",
+        "tag": "Text AI",
+        "desc": "Google's most capable AI model, built for multimodality and integration.",
+        "img": "https://images.unsplash.com/photo-1707343843437-caacff5cfa74?q=80&w=400",
+        "link": "https://gemini.google.com"
+    },
+    {
+        "name": "Claude",
+        "category": "text",
+        "tag": "Text AI",
+        "desc": "Anthropic's helpful, honest, and harmless AI assistant for complex tasks.",
+        "img": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=400",
+        "link": "https://claude.ai"
+    },
+    {
+        "name": "Jasper",
+        "category": "text",
+        "tag": "Text AI",
+        "desc": "AI copywriter for marketing teams to create high-quality content fast.",
+        "img": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=400",
+        "link": "https://jasper.ai"
+    },
+    {
+        "name": "Copy.ai",
+        "category": "text",
+        "tag": "Text AI",
+        "desc": "Generate marketing copy and content in seconds with AI-driven tools.",
+        "img": "https://images.unsplash.com/photo-1455390582262-044cdead277a?q=80&w=400",
+        "link": "https://copy.ai"
+    },
+    {
+        "name": "Writesonic",
+        "category": "text",
+        "tag": "Text AI",
+        "desc": "AI-powered writing tool for blogs, ads, and product descriptions.",
+        "img": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=400",
+        "link": "https://writesonic.com"
+    },
+    {
+        "name": "Rytr",
+        "category": "text",
+        "tag": "Text AI",
+        "desc": "Affordable AI writing assistant that helps you create high-quality content.",
+        "img": "https://images.unsplash.com/photo-1542435503-956c469947f6?q=80&w=400",
+        "link": "https://rytr.me"
+    },
+    {
+        "name": "Notion AI",
+        "category": "text",
+        "tag": "Text AI",
+        "desc": "Integrated AI within Notion to write, summarize, and brainstorm.",
+        "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=400",
+        "link": "https://notion.so"
+    },
+    {
+        "name": "Quillbot",
+        "category": "text",
+        "tag": "Text AI",
+        "desc": "AI-powered paraphrasing and grammar tool for better writing.",
+        "img": "https://images.unsplash.com/photo-1455849318743-b2233052fcff?q=80&w=400",
+        "link": "https://quillbot.com"
+    },
+    {
+        "name": "GrammarlyGO",
+        "category": "text",
+        "tag": "Text AI",
+        "desc": "Personalized AI communication assistant to rewrite and reply faster.",
+        "img": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?q=80&w=400",
+        "link": "https://grammarly.com"
+    },
+    {
+        "name": "Midjourney",
+        "category": "image",
+        "tag": "Image AI",
+        "desc": "Professional-grade AI image generation via Discord prompts.",
+        "img": "https://images.unsplash.com/photo-1675557009875-436f34d4715f?q=80&w=400",
+        "link": "https://midjourney.com"
+    },
+    {
+        "name": "DALL-E",
+        "category": "image",
+        "tag": "Image AI",
+        "desc": "OpenAI's tool to create realistic images and art from text.",
+        "img": "https://images.unsplash.com/photo-1684369176140-62098059082c?q=80&w=400",
+        "link": "https://openai.com/dall-e-3"
+    },
+    {
+        "name": "Leonardo AI",
+        "category": "image",
+        "tag": "Image AI",
+        "desc": "Production-quality assets for your creative projects with AI.",
+        "img": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=400",
+        "link": "https://leonardo.ai"
+    },
+    {
+        "name": "Canva AI",
+        "category": "image",
+        "tag": "Image AI",
+        "desc": "Magic Media tools integrated into the popular design platform.",
+        "img": "https://images.unsplash.com/photo-1572044162444-ad60f128bde2?q=80&w=400",
+        "link": "https://canva.com"
+    },
+    {
+        "name": "Adobe Firefly",
+        "category": "image",
+        "tag": "Image AI",
+        "desc": "Creative generative AI for designers integrated into Adobe CC.",
+        "img": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=400",
+        "link": "https://adobe.com/firefly"
+    },
+    {
+        "name": "Bing Image Creator",
+        "category": "image",
+        "tag": "Image AI",
+        "desc": "Free AI image generation powered by DALL-E inside Bing.",
+        "img": "https://images.unsplash.com/photo-1620712943543-bcc4638d72d3?q=80&w=400",
+        "link": "https://bing.com/create"
+    },
+    {
+        "name": "Dream AI",
+        "category": "image",
+        "tag": "Image AI",
+        "desc": "Wombo's AI art generator for mobile and web creators.",
+        "img": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=400",
+        "link": "https://dream.ai"
+    },
+    {
+        "name": "Playground AI",
+        "category": "image",
+        "tag": "Image AI",
+        "desc": "Versatile online AI image creator for social media and web.",
+        "img": "https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?q=80&w=400",
+        "link": "https://playgroundai.com"
+    },
+    {
+        "name": "Craiyon",
+        "category": "image",
+        "tag": "Image AI",
+        "desc": "Free AI model that draws images from any prompt you enter.",
+        "img": "https://images.unsplash.com/photo-1547891299-59613004c2a7?q=80&w=400",
+        "link": "https://craiyon.com"
+    },
+    {
+        "name": "Pixlr AI",
+        "category": "image",
+        "tag": "Image AI",
+        "desc": "Photo editing and design with AI-powered background removal.",
+        "img": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?q=80&w=400",
+        "link": "https://pixlr.com"
+    },
+    {
+        "name": "Runway ML",
+        "category": "video",
+        "tag": "Video AI",
+        "desc": "Next-gen AI creative tools for video editing and generation.",
+        "img": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?q=80&w=400",
+        "link": "https://runwayml.com"
+    },
+    {
+        "name": "Pika Labs",
+        "category": "video",
+        "tag": "Video AI",
+        "desc": "An idea-to-video platform that sets your creativity in motion.",
+        "img": "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=400",
+        "link": "https://pika.art"
+    },
+    {
+        "name": "Synthesia",
+        "category": "video",
+        "tag": "Video AI",
+        "desc": "Create AI videos with human avatars just by typing text.",
+        "img": "https://images.unsplash.com/photo-1536240478700-b869070f9279?q=80&w=400",
+        "link": "https://synthesia.io"
+    },
+    {
+        "name": "Invideo AI",
+        "category": "video",
+        "tag": "Video AI",
+        "desc": "The easiest way to make videos from text prompts.",
+        "img": "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?q=80&w=400",
+        "link": "https://invideo.io"
+    },
+    {
+        "name": "HeyGen",
+        "category": "video",
+        "tag": "Video AI",
+        "desc": "AI video generator for corporate training and marketing.",
+        "img": "https://images.unsplash.com/photo-1611162616484-2fd937f8f8b8?q=80&w=400",
+        "link": "https://heygen.com"
+    },
+    {
+        "name": "Veed AI",
+        "category": "video",
+        "tag": "Video AI",
+        "desc": "AI-powered video editor for subtitles, voiceovers, and more.",
+        "img": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?q=80&w=400",
+        "link": "https://veed.io"
+    },
+    {
+        "name": "Animoto",
+        "category": "video",
+        "tag": "Video AI",
+        "desc": "Easy video maker for business and personal use with AI help.",
+        "img": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=400",
+        "link": "https://animoto.com"
+    },
+    {
+        "name": "Lumen5",
+        "category": "video",
+        "tag": "Video AI",
+        "desc": "Turn blog posts into engaging videos in minutes with AI.",
+        "img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=400",
+        "link": "https://lumen5.com"
+    },
+    {
+        "name": "Fliki",
+        "category": "video",
+        "tag": "Video AI",
+        "desc": "Turn text into videos with AI voices and high-quality stock.",
+        "img": "https://images.unsplash.com/photo-1478720143907-2897370271ee?q=80&w=400",
+        "link": "https://fliki.ai"
+    },
+    {
+        "name": "DeepBrain AI",
+        "category": "video",
+        "tag": "Video AI",
+        "desc": "Realistic AI avatars for professional video creation.",
+        "img": "https://images.unsplash.com/photo-1531746020798-e795c5399c5c?q=80&w=400",
+        "link": "https://deepbrain.io"
+    },
+    {
+        "name": "GitHub Copilot",
+        "category": "coding",
+        "tag": "Coding AI",
+        "desc": "Your AI pair programmer that helps write code faster.",
+        "img": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=400",
+        "link": "https://github.com/features/copilot"
+    },
+    {
+        "name": "Blackbox AI",
+        "category": "coding",
+        "tag": "Coding AI",
+        "desc": "The fastest AI code completion and search tool.",
+        "img": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?q=80&w=400",
+        "link": "https://blackbox.ai"
+    },
+    {
+        "name": "Codeium",
+        "category": "coding",
+        "tag": "Coding AI",
+        "desc": "Free and powerful AI extension for multiple IDEs.",
+        "img": "https://images.unsplash.com/photo-1607791375727-43c49010473c?q=80&w=400",
+        "link": "https://codeium.com"
+    },
+    {
+        "name": "Replit AI",
+        "category": "coding",
+        "tag": "Coding AI",
+        "desc": "AI assistant built directly into the Replit browser IDE.",
+        "img": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=400",
+        "link": "https://replit.com"
+    },
+    {
+        "name": "Tabnine",
+        "category": "coding",
+        "tag": "Coding AI",
+        "desc": "Private and secure AI code assistant for enterprise teams.",
+        "img": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=400",
+        "link": "https://tabnine.com"
+    },
+    {
+        "name": "AskCodi",
+        "category": "coding",
+        "tag": "Coding AI",
+        "desc": "AI assistant for developers to write tests and documentation.",
+        "img": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=400",
+        "link": "https://askcodi.com"
+    },
+    {
+        "name": "Amazon CodeWhisperer",
+        "category": "coding",
+        "tag": "Coding AI",
+        "desc": "ML-powered coding companion by AWS.",
+        "img": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=400",
+        "link": "https://aws.amazon.com/codewhisperer"
+    },
+    {
+        "name": "Cursor AI",
+        "category": "coding",
+        "tag": "Coding AI",
+        "desc": "The AI-first code editor built on top of VS Code.",
+        "img": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=400",
+        "link": "https://cursor.com"
+    },
+    {
+        "name": "Mutable AI",
+        "category": "coding",
+        "tag": "Coding AI",
+        "desc": "Production-quality code generation and optimization.",
+        "img": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=400",
+        "link": "https://mutable.ai"
+    },
+    {
+        "name": "Codiga",
+        "category": "coding",
+        "tag": "Coding AI",
+        "desc": "AI-powered static code analysis and smart snippets.",
+        "img": "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?q=80&w=400",
+        "link": "https://codiga.io"
+    },
+    {
+        "name": "ElevenLabs",
+        "category": "voice",
+        "tag": "Voice AI",
+        "desc": "The most realistic text-to-speech and voice cloning AI.",
+        "img": "https://images.unsplash.com/photo-1589903308904-1010c2294adc?q=80&w=400",
+        "link": "https://elevenlabs.io"
+    },
+    {
+        "name": "Murf AI",
+        "category": "voice",
+        "tag": "Voice AI",
+        "desc": "Versatile AI voices for podcasts, videos, and presentations.",
+        "img": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?q=80&w=400",
+        "link": "https://murf.ai"
+    },
+    {
+        "name": "Descript",
+        "category": "voice",
+        "tag": "Voice AI",
+        "desc": "All-in-one video and podcast editor with Overdub AI.",
+        "img": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?q=80&w=400",
+        "link": "https://descript.com"
+    },
+    {
+        "name": "Resemble AI",
+        "category": "voice",
+        "tag": "Voice AI",
+        "desc": "Generative AI for human-like voice synthesis and cloning.",
+        "img": "https://images.unsplash.com/photo-1558403194-611308249627?q=80&w=400",
+        "link": "https://resemble.ai"
+    },
+    {
+        "name": "PlayHT",
+        "category": "voice",
+        "tag": "Voice AI",
+        "desc": "AI voice generator with 900+ natural-sounding voices.",
+        "img": "https://images.unsplash.com/photo-1484704849700-f032a568e944?q=80&w=400",
+        "link": "https://play.ht"
+    },
+    {
+        "name": "Speechify",
+        "category": "voice",
+        "tag": "Voice AI",
+        "desc": "High-quality text-to-speech for reading and learning.",
+        "img": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=400",
+        "link": "https://speechify.com"
+    },
+    {
+        "name": "LOVO AI",
+        "category": "voice",
+        "tag": "Voice AI",
+        "desc": "Hyper-realistic AI voices for high-performance content.",
+        "img": "https://images.unsplash.com/photo-1459749411177-042180ce673c?q=80&w=400",
+        "link": "https://lovo.ai"
+    },
+    {
+        "name": "Voice.ai",
+        "category": "voice",
+        "tag": "Voice AI",
+        "desc": "Real-time AI voice changer for gaming and streaming.",
+        "img": "https://images.unsplash.com/photo-1614145121029-83a9f7968944?q=80&w=400",
+        "link": "https://voice.ai"
+    },
+    {
+        "name": "Narakeet",
+        "category": "voice",
+        "tag": "Voice AI",
+        "desc": "Easily create videos with AI voiceovers in 90 languages.",
+        "img": "https://images.unsplash.com/photo-1483032469466-b937c425697b?q=80&w=400",
+        "link": "https://narakeet.com"
+    },
+    {
+        "name": "Replica AI",
+        "category": "voice",
+        "tag": "Voice AI",
+        "desc": "AI voice actors for games and immersive storytelling.",
+        "img": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?q=80&w=400",
+        "link": "https://replicastudios.com"
+    },
+    {
+        "name": "Soundraw",
+        "category": "music",
+        "tag": "Music AI",
+        "desc": "AI music generator that lets you customize every song.",
+        "img": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=400",
+        "link": "https://soundraw.io"
+    },
+    {
+        "name": "Boomy",
+        "category": "music",
+        "tag": "Music AI",
+        "desc": "Create and publish original songs in seconds with AI.",
+        "img": "https://images.unsplash.com/photo-1514525253361-bee8718a300a?q=80&w=400",
+        "link": "https://boomy.com"
+    },
+    {
+        "name": "AIVA",
+        "category": "music",
+        "tag": "Music AI",
+        "desc": "The AI composer of emotional soundtrack music.",
+        "img": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?q=80&w=400",
+        "link": "https://aiva.ai"
+    },
+    {
+        "name": "Beatoven",
+        "category": "music",
+        "tag": "Music AI",
+        "desc": "Create royalty-free background music for your videos.",
+        "img": "https://images.unsplash.com/photo-1493225255756-d9584f8606e9?q=80&w=400",
+        "link": "https://beatoven.ai"
+    },
+    {
+        "name": "Loudly",
+        "category": "music",
+        "tag": "Music AI",
+        "desc": "AI-powered music platform for creators and brands.",
+        "img": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=400",
+        "link": "https://loudly.com"
+    },
+    {
+        "name": "Mubert",
+        "category": "music",
+        "tag": "Music AI",
+        "desc": "Ecosystem of AI music for streamers and app developers.",
+        "img": "https://images.unsplash.com/photo-1459749411177-042180ce673c?q=80&w=400",
+        "link": "https://mubert.com"
+    },
+    {
+        "name": "Amper Music",
+        "category": "music",
+        "tag": "Music AI",
+        "desc": "AI music composition tool for content creators.",
+        "img": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=400",
+        "link": "https://shutterstock.com/music/amper"
+    },
+    {
+        "name": "Ecrett Music",
+        "category": "music",
+        "tag": "Music AI",
+        "desc": "The easiest way to create AI music for any video.",
+        "img": "https://images.unsplash.com/photo-1420161907913-63411e531971?q=80&w=400",
+        "link": "https://ecrettmusic.com"
+    },
+    {
+        "name": "Soundful",
+        "category": "music",
+        "tag": "Music AI",
+        "desc": "Professional AI music generator for studios and creators.",
+        "img": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=400",
+        "link": "https://soundful.com"
+    },
+    {
+        "name": "Splash AI",
+        "category": "music",
+        "tag": "Music AI",
+        "desc": "Join millions of users creating music with AI in Roblox.",
+        "img": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=400",
+        "link": "https://splashmusic.com"
+    },
+    {
+        "name": "Tome AI",
+        "category": "productivity",
+        "tag": "Productivity AI",
+        "desc": "AI-powered storytelling and presentation builder.",
+        "img": "https://images.unsplash.com/photo-1557804506-669a67965ba0?q=80&w=400",
+        "link": "https://tome.app"
+    },
+    {
+        "name": "Taskade AI",
+        "category": "productivity",
+        "tag": "Productivity AI",
+        "desc": "AI-powered workspace for teams to collaborate and plan.",
+        "img": "https://images.unsplash.com/photo-1540350394557-8d14678e7f91?q=80&w=400",
+        "link": "https://taskade.com"
+    },
+    {
+        "name": "ClickUp AI",
+        "category": "productivity",
+        "tag": "Productivity AI",
+        "desc": "Integrated AI features to speed up your project management.",
+        "img": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=400",
+        "link": "https://clickup.com/ai"
+    },
+    {
+        "name": "Motion AI",
+        "category": "productivity",
+        "tag": "Productivity AI",
+        "desc": "AI that automatically plans your day and optimizes tasks.",
+        "img": "https://images.unsplash.com/photo-1495592822108-9e6261896da8?q=80&w=400",
+        "link": "https://usemotion.com"
+    },
+    {
+        "name": "Fireflies AI",
+        "category": "productivity",
+        "tag": "Productivity AI",
+        "desc": "AI meeting assistant that records, transcribes, and searches.",
+        "img": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?q=80&w=400",
+        "link": "https://fireflies.ai"
+    },
+    {
+        "name": "Otter AI",
+        "category": "productivity",
+        "tag": "Productivity AI",
+        "desc": "Automated meeting notes and live transcription service.",
+        "img": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=400",
+        "link": "https://otter.ai"
+    },
+    {
+        "name": "Krisp AI",
+        "category": "productivity",
+        "tag": "Productivity AI",
+        "desc": "AI noise cancellation for online calls and meetings.",
+        "img": "https://images.unsplash.com/photo-1583508915901-b5f84c1dcbd1?q=80&w=400",
+        "link": "https://krisp.ai"
+    },
+    {
+        "name": "Mem AI",
+        "category": "productivity",
+        "tag": "Productivity AI",
+        "desc": "AI-powered knowledge base for your personal notes.",
+        "img": "https://images.unsplash.com/photo-1517842645767-c639042777db?q=80&w=400",
+        "link": "https://mem.ai"
+    },
+    {
+        "name": "Gamma AI",
+        "category": "productivity",
+        "tag": "Productivity AI",
+        "desc": "Create presentations, docs, and websites with AI in seconds.",
+        "img": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=400",
+        "link": "https://gamma.app"
+    },
+    {
+        "name": "Beautiful AI",
+        "category": "productivity",
+        "tag": "Productivity AI",
+        "desc": "Presentation software that uses AI to design slides for you.",
+        "img": "https://images.unsplash.com/photo-1454165205744-3b78555e5572?q=80&w=400",
+        "link": "https://beautiful.ai"
+    },
+    {
+        "name": "Surfer SEO",
+        "category": "seo",
+        "tag": "SEO AI",
+        "desc": "AI-powered content editor to rank your articles higher.",
+        "img": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=400",
+        "link": "https://surferseo.com"
+    },
+    {
+        "name": "Frase",
+        "category": "seo",
+        "tag": "SEO AI",
+        "desc": "AI content writing and optimization tool for SEO teams.",
+        "img": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=400",
+        "link": "https://frase.io"
+    },
+    {
+        "name": "NeuronWriter",
+        "category": "seo",
+        "tag": "SEO AI",
+        "desc": "Advanced content editor with semantic SEO recommendations.",
+        "img": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?q=80&w=400",
+        "link": "https://neuronwriter.com"
+    },
+    {
+        "name": "Scalenut",
+        "category": "seo",
+        "tag": "SEO AI",
+        "desc": "AI-powered platform for the entire content lifecycle.",
+        "img": "https://images.unsplash.com/photo-1504868584819-f8eec0b49c73?q=80&w=400",
+        "link": "https://scalenut.com"
+    },
+    {
+        "name": "Outranking",
+        "category": "seo",
+        "tag": "SEO AI",
+        "desc": "AI writing and planning for data-driven SEO content.",
+        "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=400",
+        "link": "https://outranking.io"
+    },
+    {
+        "name": "Semrush AI",
+        "category": "seo",
+        "tag": "SEO AI",
+        "desc": "AI integration in the world's leading SEO toolset.",
+        "img": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=400",
+        "link": "https://semrush.com"
+    },
+    {
+        "name": "Clearscope",
+        "category": "seo",
+        "tag": "SEO AI",
+        "desc": "Content optimization platform for better search rankings.",
+        "img": "https://images.unsplash.com/photo-1454165205744-3b78555e5572?q=80&w=400",
+        "link": "https://clearscope.io"
+    },
+    {
+        "name": "MarketMuse",
+        "category": "seo",
+        "tag": "SEO AI",
+        "desc": "AI platform for content research and strategy.",
+        "img": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=400",
+        "link": "https://marketmuse.com"
+    },
+    {
+        "name": "RankMath AI",
+        "category": "seo",
+        "tag": "SEO AI",
+        "desc": "AI content assistant for the popular WordPress SEO plugin.",
+        "img": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=400",
+        "link": "https://rankmath.com/content-ai"
+    },
+    {
+        "name": "Alli AI",
+        "category": "seo",
+        "tag": "SEO AI",
+        "desc": "Automate SEO tasks and optimization for any website.",
+        "img": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=400",
+        "link": "https://alliai.com"
+    },
+    {
+        "name": "Character AI",
+        "category": "fun",
+        "tag": "Fun AI",
+        "desc": "Chat with AI versions of famous people and characters.",
+        "img": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=400",
+        "link": "https://character.ai"
+    },
+    {
+        "name": "Replika",
+        "category": "fun",
+        "tag": "Fun AI",
+        "desc": "An AI companion who cares, always here to listen and talk.",
+        "img": "https://images.unsplash.com/photo-1531746020798-e795c5399c5c?q=80&w=400",
+        "link": "https://replika.ai"
+    },
+    {
+        "name": "AI Dungeon",
+        "category": "fun",
+        "tag": "Fun AI",
+        "desc": "An infinitely generated text adventure game with AI.",
+        "img": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=400",
+        "link": "https://aidungeon.io"
+    },
+    {
+        "name": "Chai AI",
+        "category": "fun",
+        "tag": "Fun AI",
+        "desc": "A platform for entertaining and fun AI chat experiences.",
+        "img": "https://images.unsplash.com/photo-1516110833967-0b5716ca1387?q=80&w=400",
+        "link": "https://chai.ml"
+    },
+    {
+        "name": "Talkie AI",
+        "category": "fun",
+        "tag": "Fun AI",
+        "desc": "Immersive AI character interactions and roleplay.",
+        "img": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=400",
+        "link": "https://talkie-ai.com"
+    },
+    {
+        "name": "Kuki AI",
+        "category": "fun",
+        "tag": "Fun AI",
+        "desc": "An award-winning AI chatbot designed to entertain humans.",
+        "img": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=400",
+        "link": "https://kuki.ai"
+    },
+    {
+        "name": "NovelAI",
+        "category": "fun",
+        "tag": "Fun AI",
+        "desc": "AI-assisted storytelling and creative writing platform.",
+        "img": "https://images.unsplash.com/photo-1455390582262-044cdead277a?q=80&w=400",
+        "link": "https://novelai.net"
+    },
+    {
+        "name": "DreamGF",
+        "category": "fun",
+        "tag": "Fun AI",
+        "desc": "Create and chat with personalized AI characters.",
+        "img": "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=400",
+        "link": "https://dreamgf.ai"
+    },
+    {
+        "name": "Botify AI",
+        "category": "fun",
+        "tag": "Fun AI",
+        "desc": "Digital clones of your favorite real and fictional people.",
+        "img": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=400",
+        "link": "https://botify.ai"
+    },
+    {
+        "name": "Tavern AI",
+        "category": "fun",
+        "tag": "Fun AI",
+        "desc": "Advanced roleplay interface for LLM character chat.",
+        "img": "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=400",
+        "link": "https://tavernai.com"
+    },
+    {
+        "name": "Durable AI",
+        "category": "business",
+        "tag": "Business AI",
+        "desc": "Build a website for your business in 30 seconds with AI.",
+        "img": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=400",
+        "link": "https://durable.co"
+    },
+    {
+        "name": "Shopify Magic",
+        "category": "business",
+        "tag": "Business AI",
+        "desc": "AI-powered tools for e-commerce store owners.",
+        "img": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=400",
+        "link": "https://shopify.com/magic"
+    },
+    {
+        "name": "Hubspot AI",
+        "category": "business",
+        "tag": "Business AI",
+        "desc": "CRM and marketing automation powered by AI.",
+        "img": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=400",
+        "link": "https://hubspot.com"
+    },
+    {
+        "name": "Salesforce Einstein",
+        "category": "business",
+        "tag": "Business AI",
+        "desc": "The first integrated AI for CRM platforms.",
+        "img": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=400",
+        "link": "https://salesforce.com/einstein"
+    },
+    {
+        "name": "Zoho AI",
+        "category": "business",
+        "tag": "Business AI",
+        "desc": "Zia, the AI assistant for business operating systems.",
+        "img": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?q=80&w=400",
+        "link": "https://zoho.com/zia"
+    },
+    {
+        "name": "Pictory",
+        "category": "business",
+        "tag": "Business AI",
+        "desc": "Automatically create high-sharing video content for business.",
+        "img": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?q=80&w=400",
+        "link": "https://pictory.ai"
+    },
+    {
+        "name": "Mailchimp AI",
+        "category": "business",
+        "tag": "Business AI",
+        "desc": "AI marketing tools to help small businesses grow faster.",
+        "img": "https://images.unsplash.com/photo-1557200134-90327ee9fafa?q=80&w=400",
+        "link": "https://mailchimp.com"
+    },
+    {
+        "name": "AdCreative AI",
+        "category": "business",
+        "tag": "Business AI",
+        "desc": "Generate conversion-focused ad creatives in seconds.",
+        "img": "https://images.unsplash.com/photo-1533750516457-a7f992034fec?q=80&w=400",
+        "link": "https://adcreative.ai"
+    },
+    {
+        "name": "Predis AI",
+        "category": "business",
+        "tag": "Business AI",
+        "desc": "AI-powered social media post generator for businesses.",
+        "img": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?q=80&w=400",
+        "link": "https://predis.ai"
+    },
+    {
+        "name": "Simplified AI",
+        "category": "business",
+        "tag": "Business AI",
+        "desc": "Design, write, and publish with an all-in-one AI platform.",
+        "img": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=400",
+        "link": "https://simplified.com"
+    },
+    {
+        "name": "Perplexity AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Perplexity+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "YouChat",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=YouChat",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Poe AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Poe+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "DeepSeek AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=DeepSeek+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Microsoft Copilot",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Microsoft+Copilot",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Google AI Studio",
+        "category": "voice",
+        "tag": "VOICE AI",
+        "desc": "Advanced voice tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Google+AI+Studio",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "HuggingChat",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=HuggingChat",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Pi AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Pi+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Sudowrite",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Sudowrite",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Wordtune",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Wordtune",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "HyperWrite",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=HyperWrite",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Peppertype AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Peppertype+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Anyword",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Anyword",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Ink AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Ink+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "LongShot AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=LongShot+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Simplified Writer",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Simplified+Writer",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "TextCortex",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=TextCortex",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Katteb",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Katteb",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "ClosersCopy",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=ClosersCopy",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Sapling AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Sapling+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "NovelCrafter",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=NovelCrafter",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "AISEO",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=AISEO",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "WriterZen",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=WriterZen",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "ProWritingAid AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=ProWritingAid+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Linguix",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Linguix",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Rephrase AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Rephrase+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Typli AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Typli+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Hoppy Copy",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Hoppy+Copy",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Smart Copy",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Smart+Copy",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "NeuralText",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=NeuralText",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Stable Diffusion",
+        "category": "image",
+        "tag": "IMAGE AI",
+        "desc": "Advanced image tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Stable+Diffusion",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "BlueWillow",
+        "category": "image",
+        "tag": "IMAGE AI",
+        "desc": "Advanced image tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=BlueWillow",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "NightCafe",
+        "category": "image",
+        "tag": "IMAGE AI",
+        "desc": "Advanced image tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=NightCafe",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Fotor AI",
+        "category": "image",
+        "tag": "IMAGE AI",
+        "desc": "Advanced image tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Fotor+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "PhotoRoom",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=PhotoRoom",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Remini",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Remini",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Cutout Pro",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Cutout+Pro",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Artbreeder",
+        "category": "image",
+        "tag": "IMAGE AI",
+        "desc": "Advanced image tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Artbreeder",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "StarryAI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=StarryAI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Deep Dream Generator",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Deep+Dream+Generator",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Imagine AI",
+        "category": "image",
+        "tag": "IMAGE AI",
+        "desc": "Advanced image tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Imagine+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Picsart AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Picsart+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Designs.ai",
+        "category": "image",
+        "tag": "IMAGE AI",
+        "desc": "Advanced image tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Designs.ai",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Hotpot AI",
+        "category": "image",
+        "tag": "IMAGE AI",
+        "desc": "Advanced image tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Hotpot+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Krea AI",
+        "category": "image",
+        "tag": "IMAGE AI",
+        "desc": "Advanced image tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Krea+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Magnific AI",
+        "category": "image",
+        "tag": "IMAGE AI",
+        "desc": "Advanced image tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Magnific+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Pixelcut",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Pixelcut",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "FaceApp AI",
+        "category": "image",
+        "tag": "IMAGE AI",
+        "desc": "Advanced image tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=FaceApp+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "ZMO AI",
+        "category": "image",
+        "tag": "IMAGE AI",
+        "desc": "Advanced image tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=ZMO+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "VanceAI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=VanceAI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Kaiber AI",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Kaiber+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Wisecut",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Wisecut",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Colossyan",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Colossyan",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Elai.io",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Elai.io",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Hour One",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Hour+One",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Vidyo AI",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Vidyo+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Kapwing AI",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Kapwing+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Filmora AI",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Filmora+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Opus Clip",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Opus+Clip",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Descript Studio",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Descript+Studio",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Unscreen",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Unscreen",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Steve AI",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Steve+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Raw Shorts",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Raw+Shorts",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Promo AI",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Promo+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Animaker AI",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Animaker+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Powtoon AI",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Powtoon+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Dubverse",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Dubverse",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Synthesys AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Synthesys+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Wave.video AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Wave.video+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "FlexClip AI",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=FlexClip+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Continue AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Continue+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Sourcegraph Cody",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Sourcegraph+Cody",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Bolt.new",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Bolt.new",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Windsurf AI",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Windsurf+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Phind AI",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Phind+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "CodeGeeX",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=CodeGeeX",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Pieces AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Pieces+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Safurai",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Safurai",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Mintlify AI",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Mintlify+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Bito AI",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Bito+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Tabby AI",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Tabby+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Codiumate",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Codiumate",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "DeepCode AI",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=DeepCode+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Qodo AI",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Qodo+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "JetBrains AI Assistant",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=JetBrains+AI+Assistant",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Devin AI",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Devin+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Aider AI",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Aider+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Smol Developer",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Smol+Developer",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Cursor Composer",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Cursor+Composer",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "AutoGPT",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=AutoGPT",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Suno AI",
+        "category": "voice",
+        "tag": "VOICE AI",
+        "desc": "Advanced voice tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Suno+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Udio",
+        "category": "voice",
+        "tag": "VOICE AI",
+        "desc": "Advanced voice tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Udio",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Voicemod AI",
+        "category": "voice",
+        "tag": "VOICE AI",
+        "desc": "Advanced voice tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Voicemod+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "VocalRemover AI",
+        "category": "voice",
+        "tag": "VOICE AI",
+        "desc": "Advanced voice tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=VocalRemover+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Cleanvoice AI",
+        "category": "voice",
+        "tag": "VOICE AI",
+        "desc": "Advanced voice tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Cleanvoice+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Podcastle AI",
+        "category": "voice",
+        "tag": "VOICE AI",
+        "desc": "Advanced voice tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Podcastle+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Adobe Podcast AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Adobe+Podcast+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Listnr AI",
+        "category": "voice",
+        "tag": "VOICE AI",
+        "desc": "Advanced voice tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Listnr+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "WellSaid Labs",
+        "category": "voice",
+        "tag": "VOICE AI",
+        "desc": "Advanced voice tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=WellSaid+Labs",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "TTSMaker",
+        "category": "voice",
+        "tag": "VOICE AI",
+        "desc": "Advanced voice tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=TTSMaker",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Browse AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Browse+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Akkio",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Akkio",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Obviously AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Obviously+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "MonkeyLearn",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=MonkeyLearn",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "DataRobot",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=DataRobot",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Teachable Machine",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Teachable+Machine",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Levity AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Levity+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Peltarion",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Peltarion",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "BigML",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=BigML",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "ObviouslyML",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=ObviouslyML",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Durable Website Builder",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Durable+Website+Builder",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "10Web AI Builder",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=10Web+AI+Builder",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Framer AI",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Framer+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Wix ADI",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Wix+ADI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Hostinger AI Builder",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Hostinger+AI+Builder",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Jimdo Dolphin",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Jimdo+Dolphin",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "B12 AI",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=B12+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Bookmark AiDA",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Bookmark+AiDA",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Unicorn Platform AI",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Unicorn+Platform+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Zyro AI",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Zyro+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Tome App",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Tome+App",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Decktopus AI",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Decktopus+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "SlidesAI",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=SlidesAI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Presentations.ai",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Presentations.ai",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Pitch AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Pitch+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Canva Magic Design",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Canva+Magic+Design",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Gamma App",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Gamma+App",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Beautiful Slides AI",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Beautiful+Slides+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Sendsteps AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Sendsteps+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "PopAi",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=PopAi",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Krisp",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Krisp",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Fireflies",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Fireflies",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Fathom AI",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Fathom+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Avoma",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Avoma",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "tl;dv AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=tl;dv+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Grain AI",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Grain+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Sembly AI",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Sembly+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Supernormal",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Supernormal",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "MeetGeek",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=MeetGeek",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Fellow AI",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Fellow+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Motion",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Motion",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Reclaim AI",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Reclaim+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Clockwise AI",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Clockwise+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Trevor AI",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Trevor+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "BeforeSunset AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=BeforeSunset+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Taskade",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Taskade",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Notion Q&A",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Notion+Q&A",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Mem X",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Mem+X",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "ClickUp Brain",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=ClickUp+Brain",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Asana Intelligence",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Asana+Intelligence",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Midpage AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Midpage+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Glean AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Glean+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Humata AI",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Humata+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "ChatPDF",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=ChatPDF",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "AskYourPDF",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=AskYourPDF",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "SciSpace Copilot",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=SciSpace+Copilot",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Elicit AI",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Elicit+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Consensus AI",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Consensus+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Explainpaper",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Explainpaper",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Scholarcy",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Scholarcy",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Jasper Art",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Jasper+Art",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "LogoAI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=LogoAI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Looka",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Looka",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Brandmark",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Brandmark",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Tailor Brands AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Tailor+Brands+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Khroma",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Khroma",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Uizard",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Uizard",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Galileo AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Galileo+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Visily AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Visily+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Mockey AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Mockey+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Replit Ghostwriter",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Replit+Ghostwriter",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Hex Magic AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Hex+Magic+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Rows AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Rows+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Airtable AI",
+        "category": "voice",
+        "tag": "VOICE AI",
+        "desc": "Advanced voice tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Airtable+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Coda AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Coda+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Zapier AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Zapier+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Make AI",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Make+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Pabbly AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Pabbly+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "n8n AI",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=n8n+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Bardeen AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Bardeen+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Tidio AI",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Tidio+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Intercom Fin",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Intercom+Fin",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Zendesk AI",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Zendesk+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Freshdesk Freddy AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Freshdesk+Freddy+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Drift AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Drift+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "ManyChat AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=ManyChat+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Chatfuel AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Chatfuel+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Kommunicate AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Kommunicate+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Botpress AI",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Botpress+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Landbot AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Landbot+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "AdCreative",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=AdCreative",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Predis",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Predis",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Ocoya",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Ocoya",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "CopySmith",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=CopySmith",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Smartly.io AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Smartly.io+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Pencil AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Pencil+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Phrasee",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Phrasee",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Pattern89",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Pattern89",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Madgicx AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Madgicx+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Albert AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Albert+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Surfer AI",
+        "category": "seo",
+        "tag": "SEO AI",
+        "desc": "Advanced seo tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Surfer+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Frase.io",
+        "category": "seo",
+        "tag": "SEO AI",
+        "desc": "Advanced seo tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Frase.io",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "WriterSonic SEO",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=WriterSonic+SEO",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "GrowthBar",
+        "category": "seo",
+        "tag": "SEO AI",
+        "desc": "Advanced seo tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=GrowthBar",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Diib AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Diib+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Alli AI SEO",
+        "category": "seo",
+        "tag": "SEO AI",
+        "desc": "Advanced seo tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Alli+AI+SEO",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Page Optimizer Pro AI",
+        "category": "seo",
+        "tag": "SEO AI",
+        "desc": "Advanced seo tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Page+Optimizer+Pro+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "RankIQ",
+        "category": "seo",
+        "tag": "SEO AI",
+        "desc": "Advanced seo tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=RankIQ",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Seobility AI",
+        "category": "seo",
+        "tag": "SEO AI",
+        "desc": "Advanced seo tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Seobility+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Resume.io AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Resume.io+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Kickresume AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Kickresume+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Rezi AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Rezi+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Teal AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Teal+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Huntr AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Huntr+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Jobscan AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Jobscan+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Careerflow AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Careerflow+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Interview Warmup AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Interview+Warmup+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Final Round AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Final+Round+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Yoodli AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Yoodli+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "DoNotPay AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=DoNotPay+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Casetext CoCounsel",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Casetext+CoCounsel",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Harvey AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Harvey+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Spellbook AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Spellbook+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Lexis+ AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Lexis++AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "EvenUp AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=EvenUp+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Luminance AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Luminance+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Ebrevia AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Ebrevia+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Klarity AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Klarity+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Robin AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Robin+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Ada Health AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Ada+Health+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "K Health",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=K+Health",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Med-PaLM",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Med-PaLM",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Glass Health",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Glass+Health",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Symptomate",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Symptomate",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Buoy Health",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Buoy+Health",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Abridge AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Abridge+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Nabla Copilot",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Nabla+Copilot",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Suki AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Suki+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "PathAI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=PathAI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Socratic AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Socratic+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Khanmigo",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Khanmigo",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Quizlet Q-Chat",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Quizlet+Q-Chat",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "TutorAI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=TutorAI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Duolingo Max",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Duolingo+Max",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Elsa Speak AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Elsa+Speak+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Photomath AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Photomath+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Brainly AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Brainly+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Course Hero AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Course+Hero+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Studocu AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Studocu+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Character Creator AI",
+        "category": "fun",
+        "tag": "FUN AI",
+        "desc": "Advanced fun tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Character+Creator+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Inworld AI",
+        "category": "fun",
+        "tag": "FUN AI",
+        "desc": "Advanced fun tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Inworld+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Scenario AI",
+        "category": "fun",
+        "tag": "FUN AI",
+        "desc": "Advanced fun tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Scenario+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Rosebud AI",
+        "category": "fun",
+        "tag": "FUN AI",
+        "desc": "Advanced fun tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Rosebud+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Leonardo Motion",
+        "category": "productivity",
+        "tag": "PRODUCTIVITY AI",
+        "desc": "Advanced productivity tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Leonardo+Motion",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Meshy AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Meshy+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Luma AI",
+        "category": "fun",
+        "tag": "FUN AI",
+        "desc": "Advanced fun tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Luma+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Spline AI",
+        "category": "fun",
+        "tag": "FUN AI",
+        "desc": "Advanced fun tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Spline+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Wonder Dynamics",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Wonder+Dynamics",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Cascadeur AI",
+        "category": "video",
+        "tag": "VIDEO AI",
+        "desc": "Advanced video tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Cascadeur+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Replica Studios",
+        "category": "voice",
+        "tag": "VOICE AI",
+        "desc": "Advanced voice tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Replica+Studios",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Altered Studio",
+        "category": "voice",
+        "tag": "VOICE AI",
+        "desc": "Advanced voice tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Altered+Studio",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Voiceflow AI",
+        "category": "voice",
+        "tag": "VOICE AI",
+        "desc": "Advanced voice tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Voiceflow+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Synthflow AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Synthflow+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Retell AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Retell+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Vapi AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Vapi+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Bland AI",
+        "category": "voice",
+        "tag": "VOICE AI",
+        "desc": "Advanced voice tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Bland+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Air.ai",
+        "category": "voice",
+        "tag": "VOICE AI",
+        "desc": "Advanced voice tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Air.ai",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "PolyAI",
+        "category": "voice",
+        "tag": "VOICE AI",
+        "desc": "Advanced voice tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=PolyAI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Cognigy AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Cognigy+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Mixo AI",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Mixo+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Namelix",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Namelix",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "ValidatorAI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=ValidatorAI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "IdeaBuddy AI",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=IdeaBuddy+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Bizway AI",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Bizway+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Upmetrics AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Upmetrics+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "LivePlan AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=LivePlan+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Venturekit AI",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Venturekit+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "FounderPal AI",
+        "category": "business",
+        "tag": "BUSINESS AI",
+        "desc": "Advanced business tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=FounderPal+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Brand24 AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Brand24+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Cleanup.pictures",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Cleanup.pictures",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Let\u2019s Enhance",
+        "category": "image",
+        "tag": "IMAGE AI",
+        "desc": "Advanced image tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Let\u2019s+Enhance",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "ImgUpscaler AI",
+        "category": "image",
+        "tag": "IMAGE AI",
+        "desc": "Advanced image tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=ImgUpscaler+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Nero AI Image Upscaler",
+        "category": "image",
+        "tag": "IMAGE AI",
+        "desc": "Advanced image tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Nero+AI+Image+Upscaler",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Topaz Photo AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Topaz+Photo+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Topaz Video AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Topaz+Video+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "HitPaw AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=HitPaw+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "iLoveIMG AI",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=iLoveIMG+AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Remove.bg",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Remove.bg",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Clipdrop",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Clipdrop",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "PromptHero",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=PromptHero",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "FlowGPT",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=FlowGPT",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Snack Prompt",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=Snack+Prompt",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "PromptBase",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=PromptBase",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "AIPRM",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=AIPRM",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "PromptPerfect",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=PromptPerfect",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "PromptLayer",
+        "category": "text",
+        "tag": "TEXT AI",
+        "desc": "Advanced text tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=PromptLayer",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "LangChain",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=LangChain",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "LlamaIndex",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=LlamaIndex",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "CrewAI",
+        "category": "coding",
+        "tag": "CODING AI",
+        "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
+        "link": "https://google.com/search?q=CrewAI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    }
+]
