@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,12 +13,14 @@
             max-width: 1200px;
             margin: 0 auto;
         }
+        
         .admin-header {
             display: flex;
             justify-content: space-between;
             align-items: center;
             margin-bottom: 3rem;
         }
+        
         .admin-form {
             background: var(--bg-card);
             padding: 2rem;
@@ -25,19 +28,24 @@
             border: 1px solid var(--border);
             margin-bottom: 4rem;
         }
+        
         .form-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
             gap: 1.5rem;
             margin-bottom: 1.5rem;
         }
+        
         .form-group label {
             display: block;
             margin-bottom: 0.5rem;
             color: var(--text-muted);
             font-size: 0.9rem;
         }
-        .form-group input, .form-group select, .form-group textarea {
+        
+        .form-group input,
+        .form-group select,
+        .form-group textarea {
             width: 100%;
             padding: 0.8rem;
             background: var(--bg-dark);
@@ -46,6 +54,7 @@
             color: white;
             outline: none;
         }
+        
         .admin-table {
             width: 100%;
             border-collapse: collapse;
@@ -54,16 +63,20 @@
             overflow: hidden;
             border: 1px solid var(--border);
         }
-        .admin-table th, .admin-table td {
+        
+        .admin-table th,
+        .admin-table td {
             padding: 1rem 1.5rem;
             text-align: left;
             border-bottom: 1px solid var(--border);
         }
+        
         .admin-table th {
-            background: rgba(255,255,255,0.05);
+            background: rgba(255, 255, 255, 0.05);
             color: var(--text-muted);
             font-weight: 600;
         }
+        
         .action-btn {
             padding: 0.5rem;
             border-radius: 8px;
@@ -71,10 +84,18 @@
             transition: var(--transition);
             border: none;
         }
-        .btn-delete { background: #ef4444; color: white; }
-        .btn-delete:hover { background: #dc2626; }
+        
+        .btn-delete {
+            background: #ef4444;
+            color: white;
+        }
+        
+        .btn-delete:hover {
+            background: #dc2626;
+        }
     </style>
 </head>
+
 <body>
     <div class="bg-glow">
         <div class="glow-1"></div>
@@ -179,7 +200,7 @@
             });
         }
 
-        document.getElementById('addToolForm').addEventListener('submit', async (e) => {
+        document.getElementById('addToolForm').addEventListener('submit', async(e) => {
             e.preventDefault();
             const newTool = {
                 name: document.getElementById('toolName').value,
@@ -192,8 +213,10 @@
 
             const res = await fetch('/api/tools', {
                 method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify(new_tool)
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(newTool)
             });
 
             if (res.ok) {
@@ -205,7 +228,9 @@
 
         async function deleteTool(name) {
             if (confirm(`Are you sure you want to delete ${name}?`)) {
-                const res = await fetch(`/api/tools/${name}`, { method: 'DELETE' });
+                const res = await fetch(`/api/tools/${name}`, {
+                    method: 'DELETE'
+                });
                 if (res.ok) fetchTools();
             }
         }
@@ -217,4 +242,5 @@
         fetchTools();
     </script>
 </body>
+
 </html>

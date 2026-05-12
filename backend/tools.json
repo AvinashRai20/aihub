@@ -3190,5 +3190,13 @@
         "desc": "Advanced coding tools powered by AI to enhance your workflow and creativity.",
         "link": "https://google.com/search?q=CrewAI",
         "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400"
+    },
+    {
+        "name": "Elvenlabs",
+        "category": "text",
+        "tag": "Text AI",
+        "desc": "alll in one ",
+        "img": "https://elevenlabs.io/favicon.ico",
+        "link": "https://elevenlabs.io/?utm_source=chatgpt.com"
     }
 ]
